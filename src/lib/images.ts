@@ -1,0 +1,38 @@
+export const img = {
+  homeHero: "https://images.pexels.com/photos/31127615/pexels-photo-31127615.jpeg?auto=compress&cs=tinysrgb&w=1400",
+  homeCrew: "https://images.pexels.com/photos/7812847/pexels-photo-7812847.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  homeCanopy: "https://images.pexels.com/photos/6218318/pexels-photo-6218318.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  homeStorm: "https://images.pexels.com/photos/2310483/pexels-photo-2310483.jpeg?auto=compress&cs=tinysrgb&w=1200",
+
+  servicesHero: "https://images.pexels.com/photos/35606516/pexels-photo-35606516.jpeg?auto=compress&cs=tinysrgb&w=1400",
+  servicePruning: "https://images.pexels.com/photos/34674271/pexels-photo-34674271.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  serviceRemoval: "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  serviceEmergency: "https://images.pexels.com/photos/34241750/pexels-photo-34241750.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  serviceHealth: "https://images.pexels.com/photos/6822839/pexels-photo-6822839.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  serviceStump: "https://images.pexels.com/photos/4206120/pexels-photo-4206120.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  servicePlanting: "https://images.pexels.com/photos/8543578/pexels-photo-8543578.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  servicesForest: "https://images.pexels.com/photos/11930042/pexels-photo-11930042.jpeg?auto=compress&cs=tinysrgb&w=1200",
+
+  aboutHero: "https://images.pexels.com/photos/6413498/pexels-photo-6413498.jpeg?auto=compress&cs=tinysrgb&w=1400",
+  aboutStory: "https://images.pexels.com/photos/35089307/pexels-photo-35089307.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  aboutTeam: "https://images.pexels.com/photos/7812853/pexels-photo-7812853.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  aboutValues: "https://images.pexels.com/photos/34942042/pexels-photo-34942042.jpeg?auto=compress&cs=tinysrgb&w=1200",
+
+  contactHero: "https://images.pexels.com/photos/35390339/pexels-photo-35390339.jpeg?auto=compress&cs=tinysrgb&w=1400",
+  contactOffice: "https://images.pexels.com/photos/6153123/pexels-photo-6153123.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  contactMap: "https://images.pexels.com/photos/6174458/pexels-photo-6174458.jpeg?auto=compress&cs=tinysrgb&w=1200",
+
+  galleryHero: "https://images.pexels.com/photos/10079904/pexels-photo-10079904.jpeg?auto=compress&cs=tinysrgb&w=1400",
+  gallery1: "https://images.pexels.com/photos/209229/pexels-photo-209229.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery2: "https://images.pexels.com/photos/8821021/pexels-photo-8821021.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery3: "https://images.pexels.com/photos/4206112/pexels-photo-4206112.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery4: "https://images.pexels.com/photos/9775910/pexels-photo-9775910.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery5: "https://images.pexels.com/photos/13790935/pexels-photo-13790935.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery6: "https://images.pexels.com/photos/34581908/pexels-photo-34581908.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery7: "https://images.pexels.com/photos/13978241/pexels-photo-13978241.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery8: "https://images.pexels.com/photos/36617427/pexels-photo-36617427.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery9: "https://images.pexels.com/photos/23825134/pexels-photo-23825134.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery10: "https://images.pexels.com/photos/5029853/pexels-photo-5029853.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery11: "https://images.pexels.com/photos/5629430/pexels-photo-5629430.jpeg?auto=compress&cs=tinysrgb&w=1000",
+  gallery12: "https://images.pexels.com/photos/36210259/pexels-photo-36210259.jpeg?auto=compress&cs=tinysrgb&w=1000",
+} as const;
