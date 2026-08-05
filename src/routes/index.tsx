@@ -86,6 +86,8 @@ function Home() {
             alt="Certified tree surgeon safely cutting a branch while secured with climbing ropes"
             width={1366}
             height={768}
+            loading="eager"
+            decoding="sync"
             fetchPriority="high"
             className="absolute inset-0 h-full w-full object-cover object-[68%_center] lg:object-center"
           />

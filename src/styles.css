@@ -214,6 +214,12 @@
 }
 
 /* Scroll reveal — elements travel vertically into place */
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
+}
+
 .reveal {
   opacity: 0;
   transform: translate3d(0, 56px, 0) scale(0.97);
