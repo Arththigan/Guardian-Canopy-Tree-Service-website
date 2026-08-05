@@ -81,6 +81,8 @@ function Home() {
         <div className="relative mx-auto min-h-[620px] max-w-[88rem] overflow-hidden rounded-[1.5rem] bg-[#063d28] shadow-[0_32px_90px_rgba(7,35,22,0.3)] sm:min-h-[680px] sm:rounded-[2.5rem] lg:min-h-0 lg:aspect-video">
           <img
             src="/images/guardian-canopy-hero.webp"
+            srcSet="/images/guardian-canopy-hero-mobile.webp 768w, /images/guardian-canopy-hero.webp 1376w"
+            sizes="(max-width: 768px) 100vw, 1376px"
             alt="Certified tree surgeon safely cutting a branch while secured with climbing ropes"
             width={1366}
             height={768}
