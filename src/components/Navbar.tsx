@@ -1,6 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { useEffect, useRef, useState } from "react";
-import logo from "@/assets/guardian-canopy-logo.png";
+import logo from "@/assets/guardian-canopy-logo.webp";
 
 const links = [
   { to: "/", label: "Home" },

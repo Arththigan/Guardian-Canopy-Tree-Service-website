@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import logo from "@/assets/guardian-canopy-logo.png";
+import logo from "@/assets/guardian-canopy-logo.webp";
 import { Reveal } from "./Reveal";
 
 export function Footer() {

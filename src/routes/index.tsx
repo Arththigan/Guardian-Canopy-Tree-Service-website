@@ -80,7 +80,7 @@ function Home() {
       <section className="px-4 pt-28 pb-16 sm:px-6 sm:pt-32">
         <div className="relative mx-auto min-h-[620px] max-w-[88rem] overflow-hidden rounded-[1.5rem] bg-[#063d28] shadow-[0_32px_90px_rgba(7,35,22,0.3)] sm:min-h-[680px] sm:rounded-[2.5rem] lg:min-h-0 lg:aspect-video">
           <img
-            src="/images/guardian-canopy-hero.jpeg"
+            src="/images/guardian-canopy-hero.webp"
             alt="Certified tree surgeon safely cutting a branch while secured with climbing ropes"
             width={1366}
             height={768}
@@ -101,7 +101,7 @@ function Home() {
             </p>
           <Link
             to="/contact"
-            className="mt-8 inline-flex w-fit items-center justify-center gap-3 rounded-full bg-[#ff7a1a] px-7 py-3.5 font-display text-sm font-extrabold tracking-[0.02em] text-white uppercase shadow-[0_8px_24px_rgba(255,122,26,0.38)] transition hover:-translate-y-0.5 hover:bg-[#ff8b35] focus-visible:ring-4 focus-visible:ring-white focus-visible:ring-offset-4 focus-visible:ring-offset-[#063d28] sm:px-9 sm:py-4 sm:text-base"
+            className="mt-8 inline-flex w-fit items-center justify-center gap-3 rounded-full bg-[#c94f00] px-7 py-3.5 font-display text-sm font-extrabold tracking-[0.02em] text-white uppercase shadow-[0_8px_24px_rgba(201,79,0,0.38)] transition hover:-translate-y-0.5 hover:bg-[#a94100] focus-visible:ring-4 focus-visible:ring-white focus-visible:ring-offset-4 focus-visible:ring-offset-[#063d28] sm:px-9 sm:py-4 sm:text-base"
           >
             <span>Get a free quote</span>
             <span aria-hidden="true" className="text-[1.4em] leading-none">›</span>
